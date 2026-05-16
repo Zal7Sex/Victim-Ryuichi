@@ -21,5 +21,28 @@
     "smsSpyActive": true,
     "lastGps": null,
     "lastAudio": null
+  },
+  {
+    "deviceId": "c06823dac0c92389",
+    "deviceName": "TECNO MOBILE LIMITED TECNO LE7",
+    "ownerUsername": "Zal7Sex",
+    "token": "74e1975b32bc12b46b3359426f25ee25",
+    "lastSeen": 1778922560775,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-05-16T09:09:20.775Z",
+    "deviceInfo": {
+      "model": "TECNO MOBILE LIMITED TECNO LE7",
+      "androidVersion": "Android 11",
+      "battery": 42,
+      "network": "WiFi: Zal7Sex 5G",
+      "sim1": "Indosat Ooredoo",
+      "sim2": "Tidak ada"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "lastGps": null,
+    "lastAudio": null
   }
 ]
