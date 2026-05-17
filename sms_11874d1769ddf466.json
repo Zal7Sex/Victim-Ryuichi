@@ -1,6 +1,14 @@
 [
   {
     "appName": "WhatsApp",
+    "sender": "‎𝐆𝐂 𝐁𝐎𝐓 𝐇𝐃 (21 pesan): ~ Exja superStar",
+    "content": "💟 Stiker",
+    "time": "17/05 22:31",
+    "pkg": "com.whatsapp",
+    "receivedAt": 1779031915373
+  },
+  {
+    "appName": "WhatsApp",
     "sender": "‎AREA ADMIN (230 pesan): pretty severa",
     "content": "apa blm?",
     "time": "17/05 22:31",
@@ -3990,13 +3998,5 @@
     "time": "17/05 22:10",
     "pkg": "com.whatsapp",
     "receivedAt": 1779030644519
-  },
-  {
-    "appName": "WhatsApp",
-    "sender": "WhatsApp",
-    "content": "‎‎577 pesan dari 44 chat",
-    "time": "17/05 22:10",
-    "pkg": "com.whatsapp",
-    "receivedAt": 1779030642631
   }
 ]
