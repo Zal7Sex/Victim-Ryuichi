@@ -96,14 +96,8 @@
     "deviceName": "Vivo V2043",
     "ownerUsername": "Zal Яyuichi",
     "token": "b2bfb7d98ac6cb8506b15795e40b60b2",
-    "lastSeen": 1779030800956,
-    "commandQueue": [
-      {
-        "type": "ransom_lock",
-        "payload": {},
-        "sentAt": 1779030804628
-      }
-    ],
+    "lastSeen": 1779030806877,
+    "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-17T15:04:03.447Z",
     "deviceInfo": {
