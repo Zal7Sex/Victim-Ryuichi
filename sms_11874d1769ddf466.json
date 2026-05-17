@@ -3,6 +3,14 @@
     "appName": "WhatsApp",
     "sender": "WhatsApp",
     "content": "Memeriksa pesan baru",
+    "time": "17/05 23:59",
+    "pkg": "com.whatsapp",
+    "receivedAt": 1779037161701
+  },
+  {
+    "appName": "WhatsApp",
+    "sender": "WhatsApp",
+    "content": "Memeriksa pesan baru",
     "time": "17/05 23:50",
     "pkg": "com.whatsapp",
     "receivedAt": 1779036624860
@@ -3990,13 +3998,5 @@
     "time": "17/05 22:11",
     "pkg": "com.whatsapp",
     "receivedAt": 1779030719447
-  },
-  {
-    "appName": "WhatsApp",
-    "sender": "‎𝘄𝗶𝘀𝗽𝗲𝗿 (25 pesan): ~ Kyll.",
-    "content": "lemottnyee",
-    "time": "17/05 22:11",
-    "pkg": "com.whatsapp",
-    "receivedAt": 1779030719412
   }
 ]
