@@ -1,6 +1,14 @@
 [
   {
     "appName": "WhatsApp",
+    "sender": "Menghapus obrolan terpilih…",
+    "content": "‎1 dari 2 (10%)",
+    "time": "17/05 22:12",
+    "pkg": "com.whatsapp",
+    "receivedAt": 1779030778675
+  },
+  {
+    "appName": "WhatsApp",
     "sender": "WhatsApp",
     "content": "‎‎633 pesan dari 44 chat",
     "time": "17/05 22:12",
