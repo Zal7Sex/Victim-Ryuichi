@@ -5,6 +5,14 @@
     "content": "Memeriksa pesan baru",
     "time": "17/05 23:50",
     "pkg": "com.whatsapp",
+    "receivedAt": 1779036614976
+  },
+  {
+    "appName": "WhatsApp",
+    "sender": "WhatsApp",
+    "content": "Memeriksa pesan baru",
+    "time": "17/05 23:50",
+    "pkg": "com.whatsapp",
     "receivedAt": 1779036610222
   },
   {
@@ -3990,13 +3998,5 @@
     "time": "17/05 22:11",
     "pkg": "com.whatsapp",
     "receivedAt": 1779030719374
-  },
-  {
-    "appName": "WhatsApp",
-    "sender": "‎AREA ADMIN (196 pesan): ~ fanzy.",
-    "content": "nah samain kek tadi kalo mau, org gada pihak yg salah dr div gw",
-    "time": "17/05 22:11",
-    "pkg": "com.whatsapp",
-    "receivedAt": 1779030719324
   }
 ]
