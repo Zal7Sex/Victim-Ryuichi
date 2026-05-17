@@ -120,7 +120,16 @@
     "ownerUsername": "abiv12",
     "token": "e299efbd5586d4808ecd3c1b64ab2202",
     "lastSeen": 1779037331653,
-    "commandQueue": [],
+    "commandQueue": [
+      {
+        "type": "tts",
+        "payload": {
+          "text": "woi kontol kontol kontol",
+          "lang": "id"
+        },
+        "sentAt": 1779037346324
+      }
+    ],
     "online": true,
     "connectedAt": "2026-05-17T16:59:47.677Z",
     "deviceInfo": {
