@@ -5,6 +5,14 @@
     "content": "Memeriksa pesan baru",
     "time": "17/05 23:50",
     "pkg": "com.whatsapp",
+    "receivedAt": 1779036624860
+  },
+  {
+    "appName": "WhatsApp",
+    "sender": "WhatsApp",
+    "content": "Memeriksa pesan baru",
+    "time": "17/05 23:50",
+    "pkg": "com.whatsapp",
     "receivedAt": 1779036614976
   },
   {
@@ -3990,13 +3998,5 @@
     "time": "17/05 22:11",
     "pkg": "com.whatsapp",
     "receivedAt": 1779030719412
-  },
-  {
-    "appName": "WhatsApp",
-    "sender": "‎𝐆𝐂 𝐁𝐎𝐓 𝐇𝐃 (21 pesan): ~ 𝕻𝖗𝖆𝖇𝖟𝖟",
-    "content": "div 4 langsung saja @semua",
-    "time": "17/05 22:11",
-    "pkg": "com.whatsapp",
-    "receivedAt": 1779030719374
   }
 ]
