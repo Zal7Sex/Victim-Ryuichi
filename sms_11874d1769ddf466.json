@@ -1,6 +1,14 @@
 [
   {
     "appName": "WhatsApp",
+    "sender": "‎BEKASI PRIDE (377 pesan): reyy nobar",
+    "content": "🗿",
+    "time": "17/05 23:41",
+    "pkg": "com.whatsapp",
+    "receivedAt": 1779036115576
+  },
+  {
+    "appName": "WhatsApp",
     "sender": "WhatsApp",
     "content": "‎‎962 pesan dari 45 chat",
     "time": "17/05 23:41",
@@ -3990,13 +3998,5 @@
     "time": "17/05 22:11",
     "pkg": "com.whatsapp",
     "receivedAt": 1779030710282
-  },
-  {
-    "appName": "WhatsApp",
-    "sender": "‎pride on++ (31 pesan): ~ zy",
-    "content": "💟 Stiker",
-    "time": "17/05 22:11",
-    "pkg": "com.whatsapp",
-    "receivedAt": 1779030710235
   }
 ]
