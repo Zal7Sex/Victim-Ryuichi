@@ -2,6 +2,22 @@
   {
     "appName": "WhatsApp",
     "sender": "WhatsApp",
+    "content": "‎‎656 pesan dari 45 chat",
+    "time": "17/05 22:13",
+    "pkg": "com.whatsapp",
+    "receivedAt": 1779030834206
+  },
+  {
+    "appName": "WhatsApp",
+    "sender": "‎𝘄𝗶𝘀𝗽𝗲𝗿 (45 pesan): ~ dini",
+    "content": "adam",
+    "time": "17/05 22:13",
+    "pkg": "com.whatsapp",
+    "receivedAt": 1779030834180
+  },
+  {
+    "appName": "WhatsApp",
+    "sender": "WhatsApp",
     "content": "‎‎655 pesan dari 45 chat",
     "time": "17/05 22:13",
     "pkg": "com.whatsapp",
@@ -3982,21 +3998,5 @@
     "time": "17/05 22:06",
     "pkg": "com.whatsapp",
     "receivedAt": 1779030410926
-  },
-  {
-    "appName": "WhatsApp",
-    "sender": "‎𝐆𝐂 𝐁𝐎𝐓 𝐇𝐃 (17 pesan): ~ Exja superStar",
-    "content": "Jangan disini kocak",
-    "time": "17/05 22:06",
-    "pkg": "com.whatsapp",
-    "receivedAt": 1779030410912
-  },
-  {
-    "appName": "WhatsApp",
-    "sender": "‎AREA ADMIN (177 pesan): ~ fanzy.",
-    "content": "bur sendiri yg bilang draft sama",
-    "time": "17/05 22:06",
-    "pkg": "com.whatsapp",
-    "receivedAt": 1779030410870
   }
 ]
