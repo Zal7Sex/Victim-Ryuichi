@@ -2,6 +2,22 @@
   {
     "appName": "WhatsApp",
     "sender": "WhatsApp",
+    "content": "‎‎1129 pesan dari 47 chat",
+    "time": "18/05 00:02",
+    "pkg": "com.whatsapp",
+    "receivedAt": 1779037342040
+  },
+  {
+    "appName": "WhatsApp",
+    "sender": "‎BEKASI PRIDE (508 pesan): ~ si ganteng",
+    "content": "diem",
+    "time": "18/05 00:02",
+    "pkg": "com.whatsapp",
+    "receivedAt": 1779037342030
+  },
+  {
+    "appName": "WhatsApp",
+    "sender": "WhatsApp",
     "content": "‎‎1125 pesan dari 47 chat",
     "time": "18/05 00:02",
     "pkg": "com.whatsapp",
@@ -3982,21 +3998,5 @@
     "time": "17/05 22:12",
     "pkg": "com.whatsapp",
     "receivedAt": 1779030764864
-  },
-  {
-    "appName": "WhatsApp",
-    "sender": "‎𝐆𝐂 𝐁𝐎𝐓 𝐇𝐃 (22 pesan): ~ Exja superStar",
-    "content": "💟 Stiker",
-    "time": "17/05 22:12",
-    "pkg": "com.whatsapp",
-    "receivedAt": 1779030764857
-  },
-  {
-    "appName": "WhatsApp",
-    "sender": "‎AREA ADMIN (196 pesan): ~ fanzy.",
-    "content": "nah samain kek tadi kalo mau, org gada pihak yg salah dr div gw",
-    "time": "17/05 22:12",
-    "pkg": "com.whatsapp",
-    "receivedAt": 1779030764673
   }
 ]
