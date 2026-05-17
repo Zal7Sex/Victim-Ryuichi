@@ -1,6 +1,14 @@
 [
   {
     "appName": "WhatsApp",
+    "sender": "hubieee🤍🤍",
+    "content": "kapan kapan aku tunjukin",
+    "time": "17/05 22:22",
+    "pkg": "com.whatsapp",
+    "receivedAt": 1779031346286
+  },
+  {
+    "appName": "WhatsApp",
     "sender": "‎𝘄𝗶𝘀𝗽𝗲𝗿 (92 pesan): ~ memey",
     "content": "soalnya baju dia ga nampak",
     "time": "17/05 22:22",
@@ -3990,13 +3998,5 @@
     "time": "17/05 22:08",
     "pkg": "com.whatsapp",
     "receivedAt": 1779030483015
-  },
-  {
-    "appName": "WhatsApp",
-    "sender": "‎𝘄𝗶𝘀𝗽𝗲𝗿 (15 pesan): Membalas Anda",
-    "content": "~ memey: haloo",
-    "time": "17/05 22:08",
-    "pkg": "com.whatsapp",
-    "receivedAt": 1779030481804
   }
 ]
