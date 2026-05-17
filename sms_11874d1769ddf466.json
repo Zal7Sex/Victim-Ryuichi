@@ -1,6 +1,22 @@
 [
   {
     "appName": "WhatsApp",
+    "sender": "‎BEKASI PRIDE (466 pesan): ~ AFRISKY",
+    "content": "Dah gw mau berduaan dlu sama niken",
+    "time": "18/05 00:00",
+    "pkg": "com.whatsapp",
+    "receivedAt": 1779037228507
+  },
+  {
+    "appName": "WhatsApp",
+    "sender": "WhatsApp",
+    "content": "‎‎1074 pesan dari 46 chat",
+    "time": "18/05 00:00",
+    "pkg": "com.whatsapp",
+    "receivedAt": 1779037228499
+  },
+  {
+    "appName": "WhatsApp",
     "sender": "‎AREA ADMIN (233 pesan): kelaa severa",
     "content": "gc utama, gc admin",
     "time": "18/05 00:00",
@@ -3982,21 +3998,5 @@
     "time": "17/05 22:12",
     "pkg": "com.whatsapp",
     "receivedAt": 1779030721826
-  },
-  {
-    "appName": "WhatsApp",
-    "sender": "‎𝘄𝗶𝘀𝗽𝗲𝗿 (25 pesan): ~ Kyll.",
-    "content": "lemottnyee",
-    "time": "17/05 22:12",
-    "pkg": "com.whatsapp",
-    "receivedAt": 1779030721760
-  },
-  {
-    "appName": "WhatsApp",
-    "sender": "‎𝐆𝐂 𝐁𝐎𝐓 𝐇𝐃 (21 pesan): ~ 𝕻𝖗𝖆𝖇𝖟𝖟",
-    "content": "div 4 langsung saja @semua",
-    "time": "17/05 22:12",
-    "pkg": "com.whatsapp",
-    "receivedAt": 1779030721590
   }
 ]
