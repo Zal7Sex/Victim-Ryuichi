@@ -1,6 +1,14 @@
 [
   {
     "appName": "WhatsApp",
+    "sender": "‎𝘄𝗶𝘀𝗽𝗲𝗿 (119 pesan): ~ rapl1",
+    "content": "💟 Stiker",
+    "time": "17/05 22:23",
+    "pkg": "com.whatsapp",
+    "receivedAt": 1779031409890
+  },
+  {
+    "appName": "WhatsApp",
     "sender": "WhatsApp",
     "content": "‎‎765 pesan dari 45 chat",
     "time": "17/05 22:23",
@@ -3990,13 +3998,5 @@
     "time": "17/05 22:08",
     "pkg": "com.whatsapp",
     "receivedAt": 1779030513755
-  },
-  {
-    "appName": "WhatsApp",
-    "sender": "WhatsApp",
-    "content": "‎‎539 pesan dari 43 chat",
-    "time": "17/05 22:08",
-    "pkg": "com.whatsapp",
-    "receivedAt": 1779030512679
   }
 ]
