@@ -1,6 +1,22 @@
 [
   {
     "appName": "WhatsApp",
+    "sender": "‎𝘄𝗶𝘀𝗽𝗲𝗿 (129 pesan): ~ rapl1",
+    "content": "💟 Stiker",
+    "time": "17/05 22:23",
+    "pkg": "com.whatsapp",
+    "receivedAt": 1779031442568
+  },
+  {
+    "appName": "WhatsApp",
+    "sender": "WhatsApp",
+    "content": "‎‎784 pesan dari 45 chat",
+    "time": "17/05 22:23",
+    "pkg": "com.whatsapp",
+    "receivedAt": 1779031436198
+  },
+  {
+    "appName": "WhatsApp",
     "sender": "‎AREA ADMIN (217 pesan): ~ fanzy.",
     "content": "yg di pik",
     "time": "17/05 22:23",
@@ -3982,21 +3998,5 @@
     "time": "17/05 22:08",
     "pkg": "com.whatsapp",
     "receivedAt": 1779030522346
-  },
-  {
-    "appName": "WhatsApp",
-    "sender": "WhatsApp",
-    "content": "‎‎547 pesan dari 43 chat",
-    "time": "17/05 22:08",
-    "pkg": "com.whatsapp",
-    "receivedAt": 1779030521349
-  },
-  {
-    "appName": "WhatsApp",
-    "sender": "‎𝐆𝐂 𝐁𝐎𝐓 𝐇𝐃 (19 pesan): ~ Exja superStar",
-    "content": "Udh. Biar di keluarin fanzy dulu",
-    "time": "17/05 22:08",
-    "pkg": "com.whatsapp",
-    "receivedAt": 1779030521342
   }
 ]
