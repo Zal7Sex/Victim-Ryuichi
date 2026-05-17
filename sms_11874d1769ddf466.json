@@ -1,6 +1,30 @@
 [
   {
     "appName": "WhatsApp",
+    "sender": "‎𝘄𝗶𝘀𝗽𝗲𝗿 (142 pesan): ~ zenn..",
+    "content": "kenapa memey",
+    "time": "17/05 22:25",
+    "pkg": "com.whatsapp",
+    "receivedAt": 1779031548407
+  },
+  {
+    "appName": "WhatsApp",
+    "sender": "WhatsApp",
+    "content": "‎‎803 pesan dari 45 chat",
+    "time": "17/05 22:25",
+    "pkg": "com.whatsapp",
+    "receivedAt": 1779031544914
+  },
+  {
+    "appName": "WhatsApp",
+    "sender": "‎𝘄𝗶𝘀𝗽𝗲𝗿 (141 pesan): ~ xian bae 🪽",
+    "content": "and u pick up the phone",
+    "time": "17/05 22:25",
+    "pkg": "com.whatsapp",
+    "receivedAt": 1779031544853
+  },
+  {
+    "appName": "WhatsApp",
     "sender": "‎𝘄𝗶𝘀𝗽𝗲𝗿 (141 pesan): ~ memey",
     "content": "💟 Stiker",
     "time": "17/05 22:25",
@@ -3974,29 +3998,5 @@
     "time": "17/05 22:09",
     "pkg": "com.whatsapp",
     "receivedAt": 1779030558397
-  },
-  {
-    "appName": "WhatsApp",
-    "sender": "‎AREA ADMIN (190 pesan): isall severa",
-    "content": "biasa kan baca sampai akhir, jangan cuma sebagian doang...",
-    "time": "17/05 22:09",
-    "pkg": "com.whatsapp",
-    "receivedAt": 1779030558364
-  },
-  {
-    "appName": "WhatsApp",
-    "sender": "WhatsApp",
-    "content": "‎‎545 pesan dari 43 chat",
-    "time": "17/05 22:09",
-    "pkg": "com.whatsapp",
-    "receivedAt": 1779030557312
-  },
-  {
-    "appName": "WhatsApp",
-    "sender": "𝘄𝗶𝘀𝗽𝗲𝗿: ~ Kyll.",
-    "content": "kontlo",
-    "time": "17/05 22:09",
-    "pkg": "com.whatsapp",
-    "receivedAt": 1779030557277
   }
 ]
