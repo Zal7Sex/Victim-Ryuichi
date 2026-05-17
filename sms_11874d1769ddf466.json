@@ -1,6 +1,14 @@
 [
   {
     "appName": "WhatsApp",
+    "sender": "‎BEKASI PRIDE (379 pesan): ~ AFRISKY",
+    "content": "Lah dia aja cuma tmn",
+    "time": "17/05 23:42",
+    "pkg": "com.whatsapp",
+    "receivedAt": 1779036140194
+  },
+  {
+    "appName": "WhatsApp",
     "sender": "WhatsApp",
     "content": "‎‎965 pesan dari 45 chat",
     "time": "17/05 23:42",
@@ -3990,13 +3998,5 @@
     "time": "17/05 22:11",
     "pkg": "com.whatsapp",
     "receivedAt": 1779030713398
-  },
-  {
-    "appName": "WhatsApp",
-    "sender": "‎𝘄𝗶𝘀𝗽𝗲𝗿 (25 pesan): ~ Kyll.",
-    "content": "lemottnyee",
-    "time": "17/05 22:11",
-    "pkg": "com.whatsapp",
-    "receivedAt": 1779030713393
   }
 ]
