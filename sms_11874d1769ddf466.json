@@ -1,6 +1,14 @@
 [
   {
     "appName": "WhatsApp",
+    "sender": "‎𝘄𝗶𝘀𝗽𝗲𝗿 (189 pesan): ~ .",
+    "content": "bisa diam ga zenn",
+    "time": "17/05 23:40",
+    "pkg": "com.whatsapp",
+    "receivedAt": 1779036012311
+  },
+  {
+    "appName": "WhatsApp",
     "sender": "‎SEVERA CYCLONE || OPMEM (6 pesan): ~ Shikimory Chan (BOT)",
     "content": "GOOD BYE KACUNG @⁨~Sky Blue⁩ JANGAN BALIK LAGI JEMBUT 😜👈🏻",
     "time": "17/05 23:39",
@@ -3990,13 +3998,5 @@
     "time": "17/05 22:11",
     "pkg": "com.whatsapp",
     "receivedAt": 1779030696186
-  },
-  {
-    "appName": "WhatsApp",
-    "sender": "‎BEKASI PRIDE (244 pesan): ~ clarisaaaa",
-    "content": "HEI\"",
-    "time": "17/05 22:11",
-    "pkg": "com.whatsapp",
-    "receivedAt": 1779030694855
   }
 ]
