@@ -1,6 +1,22 @@
 [
   {
     "appName": "WhatsApp",
+    "sender": "WhatsApp",
+    "content": "‎‎962 pesan dari 45 chat",
+    "time": "17/05 23:41",
+    "pkg": "com.whatsapp",
+    "receivedAt": 1779036083011
+  },
+  {
+    "appName": "WhatsApp",
+    "sender": "WhatsApp",
+    "content": "‎‎956 pesan dari 45 chat",
+    "time": "17/05 23:41",
+    "pkg": "com.whatsapp",
+    "receivedAt": 1779036080510
+  },
+  {
+    "appName": "WhatsApp",
     "sender": "‎𝘄𝗶𝘀𝗽𝗲𝗿 (198 pesan): ~ G",
     "content": "📖 Islam Dibangun di atas Lima Dasar\n\n🔹 Arab:\nعَنْ أَبِيْ عَبْدِ الرَّحْمَنِ عَبْدِ اللهِ بْنِ عُمَرَ بْنِ الخَطَّابِ رَضِيَ اللهُ عَنْهُمَا قَالَ: سَمِعْتُ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَقُوْلُ: (بُنِيَ الإِسْلاَمُ عَلَى خَمْسٍ: شَهَادَةِ أَنْ لاَ إِلَهَ إِلاَّ اللهُ وَأَنَّ مُحَمَّدًا رَسُوْلُ اللهِ، وَإِقَامِ الصَّلاَةِ، وَإِيْتَاءِ الزَّكَاةِ، وَحَجِّ البَيْتِ، وَصَوْمِ رَمَضَانَ) رَوَاهُ الْبُخَارِيُّ وَمُسْلِمٌ\n\n🔸 Terjemahan:\nDari Abdullah bin Umar radhiyallahu ‘anhuma dia berkata: ”Rasulullah shallallahu ‘alaihi wa sallam bersabda: ”Islam itu dibangun di atas lima dasar: persaksian (syahadat) bahwa tidak ada sesembahan yang berhak disembah kecuali Allah subhanahu wa ta’ala dan Muhammad adalah utusan Allah, menegakkan shalat, menunaikan zakat, haji (ke Baitullah) dan puasa di bulan Ramadhan.” (HR. Al Bukhari dan Muslim) Diriwayatkan oleh Imam al Bukhari (8 dan 4514) dan Muslim (16)",
     "time": "17/05 23:41",
@@ -3982,21 +3998,5 @@
     "time": "17/05 22:11",
     "pkg": "com.whatsapp",
     "receivedAt": 1779030704813
-  },
-  {
-    "appName": "WhatsApp",
-    "sender": "‎BEKASI PRIDE (247 pesan): ~ clarisaaaa",
-    "content": "DO'AIN PRINCESS BESOK AKUU ULANGAN YAALLAH",
-    "time": "17/05 22:11",
-    "pkg": "com.whatsapp",
-    "receivedAt": 1779030704005
-  },
-  {
-    "appName": "WhatsApp",
-    "sender": "WhatsApp",
-    "content": "‎‎607 pesan dari 44 chat",
-    "time": "17/05 22:11",
-    "pkg": "com.whatsapp",
-    "receivedAt": 1779030703996
   }
 ]
