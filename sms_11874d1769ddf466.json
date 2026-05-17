@@ -1,6 +1,22 @@
 [
   {
     "appName": "WhatsApp",
+    "sender": "‎𝘄𝗶𝘀𝗽𝗲𝗿 (143 pesan): ~ .",
+    "content": "ga ngehargain",
+    "time": "17/05 22:26",
+    "pkg": "com.whatsapp",
+    "receivedAt": 1779031569473
+  },
+  {
+    "appName": "WhatsApp",
+    "sender": "WhatsApp",
+    "content": "‎‎804 pesan dari 45 chat",
+    "time": "17/05 22:26",
+    "pkg": "com.whatsapp",
+    "receivedAt": 1779031563309
+  },
+  {
+    "appName": "WhatsApp",
     "sender": "‎𝘄𝗶𝘀𝗽𝗲𝗿 (142 pesan): ~ xian bae 🪽",
     "content": "lngsng aja call dede itu kali y",
     "time": "17/05 22:26",
@@ -3982,21 +3998,5 @@
     "time": "17/05 22:09",
     "pkg": "com.whatsapp",
     "receivedAt": 1779030564783
-  },
-  {
-    "appName": "WhatsApp",
-    "sender": "‎SEVERA CYCLONE || OPMEM (5 pesan): kelaa severa",
-    "content": "🔗 SEVERA CYCLONE || OPMEM sedang LIVE | TikTok | https://vt.tiktok.com/ZS9YLpyWNpeTq-MUsnA/",
-    "time": "17/05 22:09",
-    "pkg": "com.whatsapp",
-    "receivedAt": 1779030564765
-  },
-  {
-    "appName": "WhatsApp",
-    "sender": "‎pride on++ (31 pesan): ~ zy",
-    "content": "💟 Stiker",
-    "time": "17/05 22:09",
-    "pkg": "com.whatsapp",
-    "receivedAt": 1779030564459
   }
 ]
