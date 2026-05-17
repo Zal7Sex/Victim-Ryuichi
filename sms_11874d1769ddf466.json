@@ -3,6 +3,14 @@
     "appName": "WhatsApp",
     "sender": "WhatsApp",
     "content": "Memeriksa pesan baru",
+    "time": "17/05 23:50",
+    "pkg": "com.whatsapp",
+    "receivedAt": 1779036610222
+  },
+  {
+    "appName": "WhatsApp",
+    "sender": "WhatsApp",
+    "content": "Memeriksa pesan baru",
     "time": "17/05 23:49",
     "pkg": "com.whatsapp",
     "receivedAt": 1779036557744
@@ -3990,13 +3998,5 @@
     "time": "17/05 22:11",
     "pkg": "com.whatsapp",
     "receivedAt": 1779030719324
-  },
-  {
-    "appName": "WhatsApp",
-    "sender": "DIVISI 20 SEVERA CYCLONE: ~ ꜱᴇɪɴ",
-    "content": "ga ada main?",
-    "time": "17/05 22:11",
-    "pkg": "com.whatsapp",
-    "receivedAt": 1779030719222
   }
 ]
