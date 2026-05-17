@@ -1,6 +1,22 @@
 [
   {
     "appName": "WhatsApp",
+    "sender": "maoo",
+    "content": "Adanya anggaran kabur masing\" ke imajinasi",
+    "time": "17/05 22:46",
+    "pkg": "com.whatsapp",
+    "receivedAt": 1779032816286
+  },
+  {
+    "appName": "WhatsApp",
+    "sender": "jujo severa",
+    "content": "mama aku takut",
+    "time": "17/05 22:46",
+    "pkg": "com.whatsapp",
+    "receivedAt": 1779032814382
+  },
+  {
+    "appName": "WhatsApp",
     "sender": "‎𝐆𝐂 𝐁𝐎𝐓 𝐇𝐃 (24 pesan): ~ Exja superStar",
     "content": "💟 Stiker",
     "time": "17/05 22:46",
@@ -3982,21 +3998,5 @@
     "time": "17/05 22:11",
     "pkg": "com.whatsapp",
     "receivedAt": 1779030661994
-  },
-  {
-    "appName": "WhatsApp",
-    "sender": "‎BEKASI PRIDE (236 pesan): ~ karyinn",
-    "content": "CACA NGAAPAINN",
-    "time": "17/05 22:11",
-    "pkg": "com.whatsapp",
-    "receivedAt": 1779030661916
-  },
-  {
-    "appName": "WhatsApp",
-    "sender": "WhatsApp",
-    "content": "‎‎588 pesan dari 44 chat",
-    "time": "17/05 22:10",
-    "pkg": "com.whatsapp",
-    "receivedAt": 1779030659034
   }
 ]
