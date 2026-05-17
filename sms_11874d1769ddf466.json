@@ -1,6 +1,22 @@
 [
   {
     "appName": "WhatsApp",
+    "sender": "‎AREA ADMIN (217 pesan): burhan severa",
+    "content": "Yg nyelenggara siapa, yg atur siapa",
+    "time": "17/05 22:24",
+    "pkg": "com.whatsapp",
+    "receivedAt": 1779031470145
+  },
+  {
+    "appName": "WhatsApp",
+    "sender": "WhatsApp",
+    "content": "‎‎785 pesan dari 45 chat",
+    "time": "17/05 22:23",
+    "pkg": "com.whatsapp",
+    "receivedAt": 1779031442658
+  },
+  {
+    "appName": "WhatsApp",
     "sender": "‎𝘄𝗶𝘀𝗽𝗲𝗿 (129 pesan): ~ rapl1",
     "content": "💟 Stiker",
     "time": "17/05 22:23",
@@ -3982,21 +3998,5 @@
     "time": "17/05 22:08",
     "pkg": "com.whatsapp",
     "receivedAt": 1779030523447
-  },
-  {
-    "appName": "WhatsApp",
-    "sender": "‎𝘄𝗶𝘀𝗽𝗲𝗿 (8 pesan): ~ Daniel Caesar.",
-    "content": "pantes",
-    "time": "17/05 22:08",
-    "pkg": "com.whatsapp",
-    "receivedAt": 1779030523440
-  },
-  {
-    "appName": "WhatsApp",
-    "sender": "WhatsApp",
-    "content": "‎‎548 pesan dari 43 chat",
-    "time": "17/05 22:08",
-    "pkg": "com.whatsapp",
-    "receivedAt": 1779030522346
   }
 ]
