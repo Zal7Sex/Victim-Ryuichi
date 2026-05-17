@@ -96,14 +96,14 @@
     "deviceName": "Vivo V2043",
     "ownerUsername": "unknown",
     "token": "b2bfb7d98ac6cb8506b15795e40b60b2",
-    "lastSeen": 1779031361791,
+    "lastSeen": 1779031378761,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-17T15:04:03.447Z",
     "deviceInfo": {
       "model": "vivo V2043",
       "androidVersion": "Android 11",
-      "battery": 27,
+      "battery": 23,
       "network": "WiFi: Febi Yola",
       "sim1": "XL Axiata",
       "sim2": "Tidak ada"
