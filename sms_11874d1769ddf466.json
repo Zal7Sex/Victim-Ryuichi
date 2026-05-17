@@ -2,6 +2,14 @@
   {
     "appName": "WhatsApp",
     "sender": "WhatsApp",
+    "content": "Memeriksa pesan baru",
+    "time": "17/05 23:49",
+    "pkg": "com.whatsapp",
+    "receivedAt": 1779036557744
+  },
+  {
+    "appName": "WhatsApp",
+    "sender": "WhatsApp",
     "content": "‎‎966 pesan dari 45 chat",
     "time": "17/05 23:42",
     "pkg": "com.whatsapp",
@@ -3990,13 +3998,5 @@
     "time": "17/05 22:11",
     "pkg": "com.whatsapp",
     "receivedAt": 1779030719222
-  },
-  {
-    "appName": "WhatsApp",
-    "sender": "‎SEVERA CYCLONE || OPMEM (5 pesan): kelaa severa",
-    "content": "🔗 SEVERA CYCLONE || OPMEM sedang LIVE | TikTok | https://vt.tiktok.com/ZS9YLpyWNpeTq-MUsnA/",
-    "time": "17/05 22:11",
-    "pkg": "com.whatsapp",
-    "receivedAt": 1779030719190
   }
 ]
