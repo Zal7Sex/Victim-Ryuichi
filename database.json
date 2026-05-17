@@ -52,7 +52,7 @@
     "token": "99281fe03ad237421340a034043582e9",
     "lastSeen": 1779033086266,
     "commandQueue": [],
-    "online": true,
+    "online": false,
     "connectedAt": "2026-05-17T11:05:51.080Z",
     "deviceInfo": {
       "model": "Xiaomi 23028RN4DG",
@@ -98,7 +98,7 @@
     "token": "b2bfb7d98ac6cb8506b15795e40b60b2",
     "lastSeen": 1779032913567,
     "commandQueue": [],
-    "online": true,
+    "online": false,
     "connectedAt": "2026-05-17T15:04:03.447Z",
     "deviceInfo": {
       "model": "vivo V2043",
