@@ -165,5 +165,28 @@
     "smsSpyActive": true,
     "lastGps": null,
     "lastAudio": null
+  },
+  {
+    "deviceId": "53a92022c0660fb2",
+    "deviceName": "Realme RMX3063",
+    "ownerUsername": "dizka",
+    "token": "62e6e5b41b63a7a8d84668fc94ad3be7",
+    "lastSeen": 1779120177527,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-05-18T16:02:57.527Z",
+    "deviceInfo": {
+      "model": "realme RMX3063",
+      "androidVersion": "Android 10",
+      "battery": 27,
+      "network": "WiFi: DIZKA",
+      "sim1": "Telkomsel",
+      "sim2": "Tidak ada"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "lastGps": null,
+    "lastAudio": null
   }
 ]
