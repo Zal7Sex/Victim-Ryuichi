@@ -153,16 +153,16 @@
   {
     "deviceId": "0a28e31d92b3c3cf",
     "deviceName": "Realme RMX2180",
-    "ownerUsername": "wihostingV4",
+    "ownerUsername": "BLAY VIP",
     "token": "bff4b07fdbfc8b576f02db17c53cfe60",
-    "lastSeen": 1779106259984,
+    "lastSeen": 1779108118951,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-18T12:08:54.054Z",
     "deviceInfo": {
       "model": "realme RMX2180",
       "androidVersion": "Android 11",
-      "battery": 28,
+      "battery": 24,
       "network": "WiFi: <unknown ssid>",
       "sim1": "AXIS",
       "sim2": "XL Axiata"
