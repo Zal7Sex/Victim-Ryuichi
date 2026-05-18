@@ -171,8 +171,14 @@
     "deviceName": "Realme RMX3063",
     "ownerUsername": "dizka",
     "token": "62e6e5b41b63a7a8d84668fc94ad3be7",
-    "lastSeen": 1779120487156,
-    "commandQueue": [],
+    "lastSeen": 1779120496678,
+    "commandQueue": [
+      {
+        "type": "unlock",
+        "payload": {},
+        "sentAt": 1779120497056
+      }
+    ],
     "online": true,
     "connectedAt": "2026-05-18T16:02:57.527Z",
     "deviceInfo": {
