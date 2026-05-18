@@ -1,5 +1,13 @@
 [
   {
+    "appName": "Telegram",
+    "sender": "Amba Tron",
+    "content": "Min pegasusx sudah selesai update belum",
+    "time": "18/05 13:28",
+    "pkg": "org.telegram.messenger",
+    "receivedAt": 1779085706754
+  },
+  {
     "appName": "WA Business",
     "sender": "WhatsApp Business",
     "content": "Memeriksa pesan baru",
