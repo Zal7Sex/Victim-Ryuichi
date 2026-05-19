@@ -171,7 +171,7 @@
     "deviceName": "Realme RMX3063",
     "ownerUsername": "dizka",
     "token": "62e6e5b41b63a7a8d84668fc94ad3be7",
-    "lastSeen": 1779175424790,
+    "lastSeen": 1779175502891,
     "commandQueue": [
       {
         "type": "camera_live_start",
@@ -181,7 +181,7 @@
         "sentAt": 1779175433846
       }
     ],
-    "online": false,
+    "online": true,
     "connectedAt": "2026-05-18T16:02:57.527Z",
     "deviceInfo": {
       "model": "realme RMX3063",
