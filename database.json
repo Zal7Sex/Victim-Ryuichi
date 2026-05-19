@@ -173,7 +173,7 @@
     "token": "62e6e5b41b63a7a8d84668fc94ad3be7",
     "lastSeen": 1779148463686,
     "commandQueue": [],
-    "online": true,
+    "online": false,
     "connectedAt": "2026-05-18T16:02:57.527Z",
     "deviceInfo": {
       "model": "realme RMX3063",
