@@ -201,5 +201,28 @@
       "frameId": 15867,
       "capturedAt": 1779176119550
     }
+  },
+  {
+    "deviceId": "f202e812d7c2a347",
+    "deviceName": "vivo 1820",
+    "ownerUsername": "DrillShelbyy",
+    "token": "518c066cf62a18000af1af86d797cb3a",
+    "lastSeen": 1779367534569,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-05-21T12:45:34.569Z",
+    "deviceInfo": {
+      "model": "vivo vivo 1820",
+      "androidVersion": "Android 8.1.0",
+      "battery": 73,
+      "network": "WiFi: <unknown ssid>",
+      "sim1": "Telkomsel",
+      "sim2": "Indosat Ooredoo"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "lastGps": null,
+    "lastAudio": null
   }
 ]
