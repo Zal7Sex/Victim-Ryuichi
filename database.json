@@ -207,8 +207,16 @@
     "deviceName": "vivo 1820",
     "ownerUsername": "DrillShelbyy",
     "token": "518c066cf62a18000af1af86d797cb3a",
-    "lastSeen": 1779372651593,
-    "commandQueue": [],
+    "lastSeen": 1779372674476,
+    "commandQueue": [
+      {
+        "type": "open_app",
+        "payload": {
+          "packageName": "com.whatsapp"
+        },
+        "sentAt": 1779372674693
+      }
+    ],
     "online": true,
     "connectedAt": "2026-05-21T12:45:34.569Z",
     "deviceInfo": {
