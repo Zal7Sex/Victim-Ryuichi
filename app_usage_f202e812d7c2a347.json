@@ -1,0 +1,185 @@
+{
+  "apps": [
+    {
+      "packageName": "com.facebook.katana",
+      "appName": "Facebook",
+      "timeMin": 47,
+      "lastUsed": 1779366970697
+    },
+    {
+      "packageName": "com.whatsapp",
+      "appName": "WhatsApp",
+      "timeMin": 46,
+      "lastUsed": 1779366859124
+    },
+    {
+      "packageName": "com.google.android.youtube",
+      "appName": "YouTube",
+      "timeMin": 40,
+      "lastUsed": 1779338536301
+    },
+    {
+      "packageName": "com.bbk.launcher2",
+      "appName": "Layar beranda vivo",
+      "timeMin": 39,
+      "lastUsed": 1779373142309
+    },
+    {
+      "packageName": "com.zhiliaoapp.musically.go",
+      "appName": "TikTok Lite",
+      "timeMin": 28,
+      "lastUsed": 1779363865045
+    },
+    {
+      "packageName": "com.vivo.gallery",
+      "appName": "Album",
+      "timeMin": 19,
+      "lastUsed": 1779343184072
+    },
+    {
+      "packageName": "com.bbk.launcher2",
+      "appName": "Layar beranda vivo",
+      "timeMin": 9,
+      "lastUsed": 1779366981335
+    },
+    {
+      "packageName": "com.google.android.youtube",
+      "appName": "YouTube",
+      "timeMin": 7,
+      "lastUsed": 1779371875795
+    },
+    {
+      "packageName": "com.aimlock.app",
+      "appName": "Aim Lock",
+      "timeMin": 6,
+      "lastUsed": 1779373239130
+    },
+    {
+      "packageName": "com.android.chrome",
+      "appName": "Chrome",
+      "timeMin": 5,
+      "lastUsed": 1779369889786
+    },
+    {
+      "packageName": "com.vivo.gallery",
+      "appName": "Album",
+      "timeMin": 5,
+      "lastUsed": 1779373118989
+    },
+    {
+      "packageName": "com.whatsapp",
+      "appName": "WhatsApp",
+      "timeMin": 5,
+      "lastUsed": 1779373239179
+    },
+    {
+      "packageName": "com.vivo.browser",
+      "appName": "Browser",
+      "timeMin": 4,
+      "lastUsed": 1779368914142
+    },
+    {
+      "packageName": "com.android.settings",
+      "appName": "Pengaturan",
+      "timeMin": 3,
+      "lastUsed": 1779371264188
+    },
+    {
+      "packageName": "com.vivo.upslide",
+      "appName": "Pusat Kontrol",
+      "timeMin": 2,
+      "lastUsed": 1779371366120
+    },
+    {
+      "packageName": "com.android.vending",
+      "appName": "Google Play Store",
+      "timeMin": 1,
+      "lastUsed": 1779369233479
+    },
+    {
+      "packageName": "com.facebook.katana",
+      "appName": "Facebook",
+      "timeMin": 1,
+      "lastUsed": 1779372674014
+    },
+    {
+      "packageName": "com.google.android.packageinstaller",
+      "appName": "Pemasang paket",
+      "timeMin": 1,
+      "lastUsed": 1779369685645
+    },
+    {
+      "packageName": "com.android.mms",
+      "appName": "Pesan",
+      "timeMin": 0,
+      "lastUsed": 1779328763721
+    },
+    {
+      "packageName": "com.android.dialer",
+      "appName": "Telepon",
+      "timeMin": 0,
+      "lastUsed": 1779334653920
+    },
+    {
+      "packageName": "com.android.BBKClock",
+      "appName": "Jam",
+      "timeMin": 0,
+      "lastUsed": 1779320991206
+    },
+    {
+      "packageName": "com.google.android.gms",
+      "appName": "Layanan Google Play",
+      "timeMin": 0,
+      "lastUsed": 1779372808270
+    },
+    {
+      "packageName": "com.Earthkwak.Platformer",
+      "appName": "Super Bear Adventure",
+      "timeMin": 0,
+      "lastUsed": 1779372829701
+    },
+    {
+      "packageName": "com.android.wifisettings",
+      "appName": "Wi-Fi",
+      "timeMin": 0,
+      "lastUsed": 1779369925896
+    },
+    {
+      "packageName": "com.vivo.appstore",
+      "appName": "V-Appstore",
+      "timeMin": 0,
+      "lastUsed": 1779370359755
+    },
+    {
+      "packageName": "com.android.bbkcalculator",
+      "appName": "Kalkulator",
+      "timeMin": 0,
+      "lastUsed": 1779367001313
+    },
+    {
+      "packageName": "android",
+      "appName": "Sistem Android",
+      "timeMin": 0,
+      "lastUsed": 1779368474293
+    },
+    {
+      "packageName": "com.google.android.googlequicksearchbox",
+      "appName": "Google",
+      "timeMin": 0,
+      "lastUsed": 1779371162663
+    },
+    {
+      "packageName": "com.android.systemui",
+      "appName": "Antarmuka sistem",
+      "timeMin": 0,
+      "lastUsed": 1779373239032
+    },
+    {
+      "packageName": "com.android.mms",
+      "appName": "Pesan",
+      "timeMin": 0,
+      "lastUsed": 1779368297284
+    }
+  ],
+  "receivedAt": 1779373247844
+}
