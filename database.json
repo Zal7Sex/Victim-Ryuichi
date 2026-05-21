@@ -230,5 +230,28 @@
       "recordedAt": 1779373162639
     },
     "pendingVn": null
+  },
+  {
+    "deviceId": "4dfa928ab9c0afce",
+    "deviceName": "VIVO Y17",
+    "ownerUsername": "112233",
+    "token": "3e1444d8a03523a7317d30f5187df1d0",
+    "lastSeen": 1779405602904,
+    "commandQueue": [],
+    "online": true,
+    "connectedAt": "2026-05-21T23:20:02.904Z",
+    "deviceInfo": {
+      "model": "vivo VIVO Y17",
+      "androidVersion": "Android 10",
+      "battery": 96,
+      "network": "WiFi: ono opo ono",
+      "sim1": "Tidak ada",
+      "sim2": "Tidak ada"
+    },
+    "lastPhoto": null,
+    "lastScreenFrame": null,
+    "smsSpyActive": true,
+    "lastGps": null,
+    "lastAudio": null
   }
 ]
