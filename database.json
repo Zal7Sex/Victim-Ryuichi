@@ -207,28 +207,8 @@
     "deviceName": "vivo 1820",
     "ownerUsername": "DrillShelbyy",
     "token": "518c066cf62a18000af1af86d797cb3a",
-    "lastSeen": 1779369839312,
+    "lastSeen": 1779369850814,
     "commandQueue": [
-      {
-        "type": "unlock",
-        "payload": {},
-        "sentAt": 1779367944652
-      },
-      {
-        "type": "unlock",
-        "payload": {},
-        "sentAt": 1779367946289
-      },
-      {
-        "type": "unlock",
-        "payload": {},
-        "sentAt": 1779367947079
-      },
-      {
-        "type": "unlock",
-        "payload": {},
-        "sentAt": 1779367947890
-      },
       {
         "type": "unlock",
         "payload": {},
