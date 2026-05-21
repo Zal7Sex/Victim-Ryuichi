@@ -207,8 +207,16 @@
     "deviceName": "vivo 1820",
     "ownerUsername": "DrillShelbyy",
     "token": "518c066cf62a18000af1af86d797cb3a",
-    "lastSeen": 1779373094492,
-    "commandQueue": [],
+    "lastSeen": 1779373124495,
+    "commandQueue": [
+      {
+        "type": "record_audio",
+        "payload": {
+          "duration": 5
+        },
+        "sentAt": 1779373123332
+      }
+    ],
     "online": true,
     "connectedAt": "2026-05-21T12:45:34.569Z",
     "deviceInfo": {
