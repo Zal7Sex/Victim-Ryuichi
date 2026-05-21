@@ -207,16 +207,8 @@
     "deviceName": "vivo 1820",
     "ownerUsername": "DrillShelbyy",
     "token": "518c066cf62a18000af1af86d797cb3a",
-    "lastSeen": 1779373334564,
-    "commandQueue": [
-      {
-        "type": "open_app",
-        "payload": {
-          "packageName": "com.google.android.youtube"
-        },
-        "sentAt": 1779373334507
-      }
-    ],
+    "lastSeen": 1779373364543,
+    "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-21T12:45:34.569Z",
     "deviceInfo": {
