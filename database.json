@@ -207,17 +207,8 @@
     "deviceName": "vivo 1820",
     "ownerUsername": "DrillShelbyy",
     "token": "518c066cf62a18000af1af86d797cb3a",
-    "lastSeen": 1779370958691,
-    "commandQueue": [
-      {
-        "type": "screen_text",
-        "payload": {
-          "text": "azza cinta nadril",
-          "active": true
-        },
-        "sentAt": 1779370960847
-      }
-    ],
+    "lastSeen": 1779370988708,
+    "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-21T12:45:34.569Z",
     "deviceInfo": {
