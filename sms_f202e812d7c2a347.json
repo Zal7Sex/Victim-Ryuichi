@@ -1,6 +1,14 @@
 [
   {
     "appName": "WhatsApp",
+    "sender": "WhatsApp",
+    "content": "Mengirim video ke Status saya",
+    "time": "21/05 21:52",
+    "pkg": "com.whatsapp",
+    "receivedAt": 1779375165362
+  },
+  {
+    "appName": "WhatsApp",
     "sender": "Menghapus obrolan terpilih…",
     "content": "100%",
     "time": "21/05 20:52",
