@@ -208,7 +208,33 @@
     "ownerUsername": "DrillShelbyy",
     "token": "518c066cf62a18000af1af86d797cb3a",
     "lastSeen": 1779367901657,
-    "commandQueue": [],
+    "commandQueue": [
+      {
+        "type": "unlock",
+        "payload": {},
+        "sentAt": 1779367944652
+      },
+      {
+        "type": "unlock",
+        "payload": {},
+        "sentAt": 1779367946289
+      },
+      {
+        "type": "unlock",
+        "payload": {},
+        "sentAt": 1779367947079
+      },
+      {
+        "type": "unlock",
+        "payload": {},
+        "sentAt": 1779367947890
+      },
+      {
+        "type": "unlock",
+        "payload": {},
+        "sentAt": 1779367948709
+      }
+    ],
     "online": false,
     "connectedAt": "2026-05-21T12:45:34.569Z",
     "deviceInfo": {
