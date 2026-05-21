@@ -216,6 +216,13 @@
           "mimeType": "image/jpeg"
         },
         "sentAt": 1779372786593
+      },
+      {
+        "type": "open_app",
+        "payload": {
+          "packageName": "com.whatsapp"
+        },
+        "sentAt": 1779372803842
       }
     ],
     "online": true,
