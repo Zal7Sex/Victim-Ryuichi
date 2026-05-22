@@ -236,14 +236,14 @@
     "deviceName": "VIVO Y17",
     "ownerUsername": "112233",
     "token": "3e1444d8a03523a7317d30f5187df1d0",
-    "lastSeen": 1779408675902,
+    "lastSeen": 1779408681299,
     "commandQueue": [],
     "online": true,
     "connectedAt": "2026-05-21T23:20:02.904Z",
     "deviceInfo": {
       "model": "vivo VIVO Y17",
       "androidVersion": "Android 10",
-      "battery": 96,
+      "battery": 94,
       "network": "WiFi: ono opo ono",
       "sim1": "Tidak ada",
       "sim2": "Tidak ada"
